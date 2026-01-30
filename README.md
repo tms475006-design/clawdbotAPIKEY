@@ -1,6 +1,5 @@
-# Clawdbot完整配置指南：从安装到Claude Code中转
+# Clawdbot完整配置指南：从安装到Claude Code中转APIKEY设置
 
-![Clawdbot Logo](https://clawd.bot/logo.png)
 
 ## 目录
 
